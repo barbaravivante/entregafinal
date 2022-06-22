@@ -1,2 +1,5 @@
 # entregafinal
-SISTEMA DE CURSOS - ENTREGA FINAL - Python - Marisol Vivante y Barbara Vivante
+SISTEMA DE CURSOS - ENTREGA FINAL - Python.
+INTEGRANTES:
+1.Marisol Vivante 
+2.Barbara Vivante
